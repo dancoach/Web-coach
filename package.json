@@ -1,0 +1,19 @@
+{
+  "name": "coach-web",
+  "version": "2.0.0",
+  "private": true,
+  "main": "index.js",
+  "scripts": {
+    "start": "expo start --web",
+    "build": "expo export --platform web"
+  },
+  "dependencies": {
+    "@expo/metro-runtime": "~56.0.21",
+    "@supabase/supabase-js": "^2.119.0",
+    "expo": "~56.0.0",
+    "react": "19.2.3",
+    "react-dom": "19.2.3",
+    "react-native": "0.85.3",
+    "react-native-web": "^0.21.2"
+  }
+}

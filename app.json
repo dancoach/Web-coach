@@ -1,0 +1,13 @@
+{
+  "expo": {
+    "name": "COACH",
+    "slug": "coach",
+    "version": "2.0.0",
+    "icon": "./assets/coach-icon.png",
+    "web": {
+      "bundler": "metro",
+      "output": "single",
+      "favicon": "./public/brand/coach-icon.png"
+    }
+  }
+}
